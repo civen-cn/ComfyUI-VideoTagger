@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-videotagger"
+description = "Nodes for video tagger."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/civen-cn/ComfyUI-VideoTagger"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "comfyuisparktts"
+DisplayName = "ComfyUI-VideoTagger"
+Icon = ""
