@@ -1,5 +1,8 @@
 # ComfyUI-VideoTagger
-
+<div align="center">
+<a href="./README.en.md">English</a>
+<a href="./README.md">中文简体</a>
+</div>
 ## 简介
 ComfyUI-VideoTagger 是一个视频辅助打标工具，可以帮助用户轻松管理和标记视频与图片文件。通过简单的界面操作，实现对媒体文件的遍历，整理。
 ![Example Workflow](./example_workflows/workflow.png)

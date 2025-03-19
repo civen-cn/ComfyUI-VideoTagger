@@ -1,5 +1,8 @@
 # ComfyUI-VideoTagger
-
+<div align="center">
+<a href="./README.en.md">English</a>
+<a href="./README.md">中文简体</a>
+</div>
 ## Introduction
 ComfyUI-VideoTagger is a video tagging assistant tool that helps users easily manage and tag video and image files. Through a simple interface, it enables users to browse and organize media files.
 ![Example Workflow](./example_workflows/workflow.png)
